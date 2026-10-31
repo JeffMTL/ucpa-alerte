@@ -1,1 +1,9 @@
-{}
+{
+  "error_notified": false,
+  "errors": 0,
+  "watches": {
+    "01/11/2026|10h45|cross training intensity": {
+      "notified": false
+    }
+  }
+}
