@@ -2,7 +2,28 @@
   "error_notified": false,
   "errors": 0,
   "watches": {
-    "01/11/2026|10h45|cross training intensity": {
+    "02/11/2026|09h30|pilates": {
+      "notified": false
+    },
+    "02/11/2026|12h15|abdos-fessiers": {
+      "notified": false
+    },
+    "02/11/2026|12h15|body pump": {
+      "notified": false
+    },
+    "02/11/2026|12h15|cross training intensity": {
+      "notified": false
+    },
+    "02/11/2026|12h30|yoga vinyasa": {
+      "notified": false
+    },
+    "02/11/2026|13h00|hyrox": {
+      "notified": false
+    },
+    "03/11/2026|17h45|cross training intensity": {
+      "notified": false
+    },
+    "04/11/2026|19h15|caf": {
       "notified": false
     }
   }
