@@ -2,23 +2,8 @@
   "error_notified": false,
   "errors": 0,
   "watches": {
-    "02/11/2026|09h30|pilates": {
-      "notified": false
-    },
-    "02/11/2026|12h15|abdos-fessiers": {
-      "notified": false
-    },
-    "02/11/2026|12h15|body pump": {
-      "notified": false
-    },
-    "02/11/2026|12h15|cross training intensity": {
-      "notified": false
-    },
-    "02/11/2026|12h30|yoga vinyasa": {
-      "notified": false
-    },
     "02/11/2026|13h00|hyrox": {
-      "notified": true
+      "notified": false
     },
     "03/11/2026|17h45|cross training intensity": {
       "notified": false
