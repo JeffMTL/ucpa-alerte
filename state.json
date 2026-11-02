@@ -2,9 +2,6 @@
   "error_notified": false,
   "errors": 0,
   "watches": {
-    "02/11/2026|13h00|hyrox": {
-      "notified": false
-    },
     "03/11/2026|17h45|cross training intensity": {
       "notified": false
     },
