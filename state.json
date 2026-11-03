@@ -2,9 +2,6 @@
   "error_notified": false,
   "errors": 0,
   "watches": {
-    "03/11/2026|17h45|cross training intensity": {
-      "notified": false
-    },
     "04/11/2026|19h15|caf": {
       "notified": false
     }
